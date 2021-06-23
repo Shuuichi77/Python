@@ -1,0 +1,3 @@
+[submodule "GraphAlgorithm"]
+	path = GraphAlgorithm
+	url = https://github.com/Shuuichi77/GraphAlgorithm
