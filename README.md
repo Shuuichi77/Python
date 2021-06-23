@@ -1,3 +1,2 @@
 # Python
-This repository contains all my work on Python of my 1st year of Computer Science Degree.
-Also contains link to GraphAlgorithm repository.
+GraphAlgorithm is a subject I did in my 3rd year.
